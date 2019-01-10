@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Brutal Type';
+    src: url('BrutalType-Light.woff2') format('woff2'),
+        url('BrutalType-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('FontAwesome.woff2') format('woff2'),
+        url('FontAwesome.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brutal Type';
+    src: url('BrutalType-Medium.woff2') format('woff2'),
+        url('BrutalType-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brutal Type';
+    src: url('BrutalType-ExtraLight.woff2') format('woff2'),
+        url('BrutalType-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+

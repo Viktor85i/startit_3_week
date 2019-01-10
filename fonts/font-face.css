@@ -1,0 +1,61 @@
+ @font-face {
+ 	font-family: 'Arsenal', sans-serif;
+ }
+
+ @font-face {
+    font-family: 'Barkentina 1';
+    src: url('../fonts/Barkentina.woff2') format('woff2'),
+        url('../fonts/Barkentina.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'arial_mtbold';
+    src: url('../fonts/arial-boldmt-webfont.woff2') format('woff2'),
+         url('../fonts/arial-boldmt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'arial_mtregular';
+    src: url('../fonts/arialmt-webfont.woff2') format('woff2'),
+         url('../fonts/arialmt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Brutal Type Light';
+    src: url('../fonts/BrutalType-Light.woff2') format('woff2'),
+        url('../fonts/BrutalType-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/FontAwesome.woff2') format('woff2'),
+        url('../fonts/FontAwesome.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brutal Type Medium';
+    src: url('../fonts/BrutalType-Medium.woff2') format('woff2'),
+        url('../fonts/BrutalType-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brutal Type Extra Light';
+    src: url('../fonts/BrutalType-ExtraLight.woff2') format('woff2'),
+        url('../fonts/BrutalType-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
